@@ -31,11 +31,12 @@ It’s perfect for busy people, meal-preppers, or anyone who wants cooking inspi
       url: 'https://ai-meal-maker.netlify.app',
     },
     {
-      title: '[Coming Soon] AI Powered Gym Tracker',
+      title: '[Work In Progress] AI Powered Fitness Assistant',
       subtitle: 'Your Personal Smart Coach',
       description: 'A lightweight fitness coach that learns your training style and gives personalized workout plans. The app tracks your sessions, detects fatigue patterns, and adjusts intensity to prevent overtraining while still helping you improve. It also includes AI-driven meal suggestions, weekly progress insights, and a built-in habit tracker — making it a simple but powerful all-in-one system.',
-      tech: ['MCP', 'React','Next.js', 'Prompt Engineering'],
-      icon: '🤖'
+      tech: ['MCP', 'React','Next.js', 'Prompt Engineering' , 'Supabase'],
+      icon: '🤖',
+      url:"https://github.com/fatinabila/fitness-assistant"
     },
   ];
 
